@@ -1,0 +1,4 @@
+[10:00:00] [INFO] Start
+[10:00:05] [DATA] Temperature=25.0
+[10:00:10] [DATA] Temperature=25.1
+[10:01:10] [EVENT] Door opened
