@@ -1,0 +1,21 @@
+[INFO] System initialized successfully.
+[INFO] Loading configuration from /etc/system.cfg
+[INFO] All sensors connected.
+[WARNING] Temperature sensor response delayed.
+[INFO] Reattempting connection...
+[INFO] Temperature sensor active.
+[DATA] Temperature = 27.5°C
+[DATA] Humidity = 65%
+[DATA] Pressure = 101.4 kPa
+[EVENT] Door opened at 10:22:35
+[EVENT] Door closed at 10:22:47
+[INFO] Data saved to database.
+[WARNING] Low battery detected (15%).
+[INFO] Battery mode enabled.
+[INFO] System running in low-power mode.
+[ERROR] Connection lost with sensor ID #3.
+[INFO] Attempting reconnection...
+[INFO] Reconnection successful.
+[INFO] Shutting down system safely.
+[INFO] System stopped successfully.
+
